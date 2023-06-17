@@ -1,0 +1,26 @@
+body{background-color: gray;}
+table, tr, th, td{
+      border-style: solid;
+      border-width: 2px;
+      border-collapse: collapse;
+      border-color: greenyellow;
+      background-color: white;
+      font-family:'Times New Roman', Times, serif;
+    }
+
+    div.tabela{
+         text-align: center; 
+         background-color: aqua;
+    }
+      
+    div#sobre{
+        background-color:rgb(red, green, blue);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: small;
+    }
+        
+    div3{background-color: blueviolet;}
+
+    table{
+        margin: auto;
+    }
